@@ -7,4 +7,5 @@ print("line six change")
 print("line seven change")
 print("line eight change")
 print("line nine change")
-print("hello from main branch")
+print('print("hello from BOTH main and conflict")
+
